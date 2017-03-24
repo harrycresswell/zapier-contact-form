@@ -1,5 +1,4 @@
 # Processing form data with Zapier
-
 This is a very simple project starter for [my article](https://www.harrycresswell.com/articles/processing-form-data-on-your-static-site-with-zapier/) on using Zapier to process form data.
 
 ## What's included
@@ -14,3 +13,9 @@ This is a very simple project starter for [my article](https://www.harrycresswel
 ## Live Demo
 
 Check out this working [demo](https://www.harrycresswell.com/contact/), if you want to see the solution in action.
+
+## Author
+
+### Harry Cresswell
+A designer / developer from the UK
+- https://harrycresswell.com/
